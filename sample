@@ -25,5 +25,4 @@ fsm = FSM{
 local a = fsm["state1"]["event1"]
 a.action()
 state = a.new
-print(state)
 
