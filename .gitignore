@@ -1,3 +1,8 @@
 *~
 \#*
 *.pyc
+LuaFrontEnd/Lua.tokens
+LuaFrontEnd/LuaLexer.py
+LuaFrontEnd/LuaLexer.tokens
+LuaFrontEnd/LuaListener.py
+LuaFrontEnd/LuaParser.py
